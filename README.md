@@ -1,4 +1,4 @@
-###Seja Bem Vindo 👋
+# Seja Bem Vindo 👋
 
 # 👋 Olá, meu nome é Mario!
 Sou formado em Sistemas da Informação pela UNINOVE e atualmente estou cursando pós graduação em Arquitetura e Desenvolvimento em JAVA pela FIAP. Atualmente trabalho no governo do estado de São Paulo.
